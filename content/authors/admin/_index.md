@@ -74,4 +74,4 @@ highlight_name: true
 
 Kangkang Duan is a PhD student of civil engineering at the UBC ICON Lab. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
