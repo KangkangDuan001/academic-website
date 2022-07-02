@@ -10,11 +10,11 @@ authors:
 
 # Author notes (optional)
 
-date: '2020-06'
+date: 'DEC 2020'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-06'
+publishDate: 'DEC 2020'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ publication_types: ['2']
 publication: In *Structures*
 publication_short: In *Structures*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Radio frequency identification (RFID) has become a hot topic in structural engineering. It has an immense potential in promoting the intelligence of construction, changing the traditional way of detection, optimizing the usage of building. Especially during the last ten years, the number of publications focus on this technology has increased dramatically. In this paper, we presented a literature review of articles which focus on the applications of RFID in structural engineering. According to the different effects of RFID in different stages of the lifecycle of a building, we organized these applications into three main categories: intelligent construction, structural health monitoring (SHM) and intelligent management and operation. The basic theory of RFID technology, the tendency and status of current researches were discussed in this paper. Finally, the gap and latent improvement of existing applications in each category were proposed. It is hoped that our analysis of these researches will provide meaningful information on the comprehension of the applications of RFID in structural engineering.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
