@@ -10,11 +10,11 @@ authors:
 
 # Author notes (optional)
 
-date: '2020'
+date: '2020-06'
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020'
+publishDate: '2020-06'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
